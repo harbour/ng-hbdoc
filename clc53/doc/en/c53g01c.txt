@@ -42350,7 +42350,7 @@
         60   3Ch   <        │  124   7Ch   |  │  188   BCh   ╝  │  252   FCh   ⁿ
         61   3Dh   =        │  125   7Dh   }  │  189   BDh   ╜  │  253   FDh   ²
         62   3Eh   >        │  126   7Eh   ~  │  190   BEh   ╛  │  254   FEh   ■
-        63   3Fh   ?        │  127   7Fh   ?  │  191   BFh   ┐  │  255   FFh    
+        63   3Fh   ?        │  127   7Fh   ?  │  191   BFh   ┐  │  255   FFh    
       </table>
    $PLATFORMS$
       DOS
